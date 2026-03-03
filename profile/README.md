@@ -22,7 +22,7 @@ We work across systems ranging from small-molecule organocatalysis to multi-step
 - 🤖 **Machine Learning** - Property prediction, screening, and interpretable features that link back to mechanism.
 - 🛠️ **Experiment Integration** - Iterative prediction -> Test -> Refinement workflows
 
-Stay updated with our latest 📚 [Publications](https://trujilloresearchgroup.com/publications) and 📰 [News](https://trujilloresearchgroup.com/news)!
+Stay updated with our latest 📚 [Publications](https://trujilloresearchgroup.com/category/publications/) and 📰 [News](https://trujilloresearchgroup.com/news)!
 
 ## Collaborations & Contributions
 
