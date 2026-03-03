@@ -28,7 +28,7 @@ Stay updated with our latest 📚 [Publications](https://trujilloresearchgroup.c
 
 We welcome contributions and collaborations!
 
-- 🔬 **Research collaboration?** Contact us through our [lab website](https://trujilloresearchgroup.com)
+- 🔬 **Research collaboration?** Contact us through our [group website](https://trujilloresearchgroup.com)
 - 🗞️ **Like our work?** Feel free to apply to any of the [open positions](https://trujilloresearchgroup.com/openpositions) in our group!
 
 ---
